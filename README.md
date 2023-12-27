@@ -57,12 +57,18 @@ or pip install -r requirements.txt
 Folder Structure
 
 /
-|-- lorenzfin.py  #it will create 2 folders for encrypted_images and decrypted_images 
+|-- lorenzfin.py  #it will create 2 folders for encrypted_images and decrypted_images
+
 |-- encrypted_images/
+
 |   |-- encrypted_timestamp.npy
+
 |   |-- encrypted_timestamp.png
+
 |-- decrypted_images/
+
 |   |-- decrypted_timestamp.jpg
+
 |-- noimg.png
 
 
